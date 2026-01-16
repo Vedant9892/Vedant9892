@@ -11,7 +11,6 @@
 ---
 
 
-<h1 align="center">Hi, I'm Vedant Mahajan</h1>
 <h3 align="center">A Passionate Developer | Tech Enthusiast | Creative</h3>
 
 
